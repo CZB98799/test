@@ -11,4 +11,9 @@ public class Test01 {
         System.out.println("1号更新");
     }
 
+
+
+    public void run2(){
+        System.out.println("2号更新");
+    }
 }
