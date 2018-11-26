@@ -20,4 +20,9 @@ public class Test01 {
     public void dev (){
         System.out.println("分枝");
     }
+    private void master(){
+        System.out.println();
+    }
+
+
 }
