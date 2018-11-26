@@ -6,4 +6,9 @@ public class Test01 {
     public void run(){
         System.out.println(22223333);
     }
+
+    public void run111111(){
+        System.out.println("1号更新");
+    }
+
 }
