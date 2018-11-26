@@ -6,4 +6,9 @@ public class Test01 {
     public void run(){
         System.out.println(2222);
     }
+
+
+    public void run2(){
+        System.out.println("2号更新");
+    }
 }
