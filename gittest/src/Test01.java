@@ -16,4 +16,9 @@ public class Test01 {
     public void run2(){
         System.out.println("2号更新");
     }
+    private void master(){
+        System.out.println();
+    }
+
+
 }
