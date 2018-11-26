@@ -16,4 +16,8 @@ public class Test01 {
     public void run2(){
         System.out.println("2号更新");
     }
+
+    public void dev (){
+        System.out.println("分枝");
+    }
 }
